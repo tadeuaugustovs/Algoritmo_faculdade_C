@@ -1,5 +1,5 @@
 /*
-Crie um programa em C que apresente a média do vetor de inteiros abaixo:
+Crie um programa em C que apresente a mÃ©dia do vetor de inteiros abaixo:
 X = [21, 43, 52, 6, 19, 1, 15, 12, 7, 3]
 */
 
@@ -20,10 +20,10 @@ int main (){
 		soma += vetorX[i];
 	}
 	
-	//Tirando a média
+	//Tirando a mÃ©dia
 	media = soma/tamanho;
 	
-	printf("A Média do Vetor é: %.2f", media);
+	printf("A MÃ©dia do Vetor Ã©: %.2f", media);
 	
 	return 0;
 }
