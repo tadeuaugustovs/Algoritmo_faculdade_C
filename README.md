@@ -1,0 +1,2 @@
+As atividades foram executadas em consonância com o aprendizado adquirido, sendo também uma oportunidade para aplicar e aprimorar os conhecimentos obtidos. Portanto, caso uma atividade não faça uso de determinada biblioteca, função ou ferramenta, é porque optei por um maior exercício prático e explorei diferentes soluções para o mesmo problema, sem recorrer a bibliotecas existentes, como a stdstring.h, que facilitariam a construção do código.
+
