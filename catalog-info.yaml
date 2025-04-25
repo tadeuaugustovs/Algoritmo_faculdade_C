@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Algoritmo_faculdade_C
+  annotations:
+    github.com/project-slug: tadeuaugustovs/Algoritmo_faculdade_C
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
